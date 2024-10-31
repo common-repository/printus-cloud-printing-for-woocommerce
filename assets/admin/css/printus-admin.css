@@ -1,0 +1,8 @@
+.select2-container.select2-container--default {
+  width: 200px !important;
+}
+
+/* Hide the default text field that shows when an option doesn't have a "type" attribute in WPSF */
+#tools_settings_tools_general_section_clear-fonts-cache {
+  display: none;
+}

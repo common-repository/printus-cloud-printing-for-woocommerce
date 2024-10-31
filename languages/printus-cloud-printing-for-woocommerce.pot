@@ -1,0 +1,520 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Printus - Cloud Printing for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-14 13:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3\n"
+"X-Domain: printus-cloud-printing-for-woocommerce"
+
+#. 1: Opening <p> HTML element 2: Opening <strong> HTML element 3: Closing <strong> HTML element 4: Closing <p> HTML element
+#: printus-cloud-printing-for-woocommerce.php:49
+#: printus-cloud-printing-for-woocommerce.php:68
+#, php-format
+msgid ""
+"%1$s%2$sPrintus - Cloud Printing for WooCommerce NOTICE:%3$s PHP version too "
+"low to use this plugin. Please change to at least PHP 7.4. You can contact "
+"your web host for assistance in updating your PHP version.%4$s"
+msgstr ""
+
+#. 1: Opening <p> HTML element 2: Opening <strong> HTML element 3: Closing <strong> HTML element 4: Closing <p> HTML element
+#: printus-cloud-printing-for-woocommerce.php:98
+#, php-format
+msgid ""
+"%1$s%2$sPrintus - Cloud Printing for WooCommerce NOTICE:%3$s WooCommerce is "
+"not activated, please activate it to use the plugin.%4$s"
+msgstr ""
+
+#: includes/Controllers/Settings/Paper.php:38
+msgid "80mm Continuous Receipt Paper"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:139
+msgid "Active"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:116
+msgid "Add Store Logo"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/APISettings.php:36
+msgid "API Settings"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:165
+msgid ""
+"Attempt to automatically determine the height of the document. Turning on "
+"this option will ignore the value in the height field."
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:164
+msgid "Auto-height"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:205
+msgid "Body Font"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:212
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:250
+msgid "Body Font Size"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:140
+msgid "Check this box to apply the rule to all orders."
+msgstr ""
+
+#: includes/Compatibility/ProductAddonPlugins/PluginRepublic.php:107
+msgid "checked"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:84
+msgid "Checkout complete"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/ToolsSettings.php:97
+msgid "Clear Cache"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/ToolsSettings.php:83
+msgid "Clear Fonts Cache"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/Setup/BootstrapSettings.php:54
+msgid "Configure Settings"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:156
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:158
+msgid "Date"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:54
+msgid "Date and Time Format"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:101
+msgid "Date format"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:122
+msgid "Default options"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/ToolsSettings.php:84
+msgid "Delete all downloaded custom fonts from Printus cache."
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/ToolsSettings.php:72
+msgid "Delete all plugin settings on uninstall."
+msgstr ""
+
+#: includes/Notices/Notice.php:99
+msgid "Dismiss"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:123
+msgid "Enter manually"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/APISettings.php:57
+#, php-format
+msgid "Enter the API Key from your PrintNode dashboard. %1$s Learn more %2$s"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:98
+msgid "Enter the name of your store"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:106
+msgid "Enter the phone number of your store"
+msgstr ""
+
+#: includes/Notices/Notice.php:123 includes/Notices/Notice.php:145
+msgid ""
+"Failed to verify nonce. Please try going back and refreshing the page to try "
+"again."
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:115
+msgid "From"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/ToolsSettings.php:53
+msgid "General"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:38
+msgid "General Settings"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:110
+#, php-format
+msgid "Get a custom designed template %1$shere%2$s%3$s "
+msgstr ""
+
+#: includes/Notices/UpsellsNotices.php:51
+msgid "Get PRO"
+msgstr ""
+
+#: includes/Notices/UpsellsNotices.php:52
+msgid "Get the PRO version of Printus for extended capabilities."
+msgstr ""
+
+#: includes/Notices/ReviewNotices.php:55
+msgid "Has Printus Helped You?"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:192
+msgid "Headings Font"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:199
+msgid "Headings Font Size"
+msgstr ""
+
+#: includes/Notices/GeneralNotices.php:45
+msgid ""
+"Hey! It looks like you are making use of the WooCommerce Blocks Checkout. "
+"Unfortunately, its not fully compatible with Printus. You need to switch to "
+"the classic checkout to use the plugin features."
+msgstr ""
+
+#: includes/Notices/ReviewNotices.php:56
+msgid ""
+"Hey! its Uriahs, Sole Developer working on Printus - Cloud Printing for "
+"Woocommerce. Has the plugin benefitted your website? If yes, then would you "
+"mind taking a few seconds to leave a kind review? Reviews go a long way and "
+"they really help keep me motivated to continue working on the plugin and "
+"making it better."
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/ToolsSettings.php:71
+msgid "Housekeeping"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://printus.cloud"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://uriahsvictor.com"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:145
+#, php-format
+msgid ""
+"If no printers are found please ensure its connected to your computer then "
+"try clicking the %1$sRefresh Printers%2$s button."
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:176
+msgid "Include Currency Symbol"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:144
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:146
+msgid "Invoice"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:126
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:128
+msgid "Item"
+msgstr ""
+
+#: includes/Notices/Notice.php:90
+msgid "Learn more"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:38
+msgid "Localization Settings"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:57
+msgid "Mappings"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:88
+msgid "Misc Text Settings"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:82
+msgid "Name"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:111
+msgid "Nimbus - 80mm size paper, Cumulus - A4 and above"
+msgstr ""
+
+#: includes/Controllers/Ajax_Handlers/PluginSettings.php:43
+msgid ""
+"No connected Printers detected. Please make sure you have a printer "
+"connected to your PrintNode account."
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:137
+msgid "No printers found. Try refreshing."
+msgstr ""
+
+#: includes/Controllers/API/Order/PrintOrder.php:233
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:150
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:152
+msgid "Order"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:85
+msgid "Order complete"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:180
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:182
+msgid "Order Total"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:152
+msgid "Paper Height"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:140
+msgid "Paper Width"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:86
+msgid "Payment complete"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:204
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:206
+msgid "Payment Method"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:54
+msgid "Plugin Setup"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:132
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:134
+msgid "Price"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:79
+#, php-format
+msgid ""
+"Print jobs are fired automatically based on the option you select here. "
+"%1$sLearn more %2$s"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/ToolsSettings.php:77
+msgid "Print Length Fix"
+msgstr ""
+
+#: includes/Views/Admin/Metabox/Metabox.php:91
+msgid "Print Order"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Print WooCommerce receipts, invoices and labels remotely using any printer."
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:42
+msgid "Printer Mapping"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:61
+msgid "Printer Setup"
+msgstr ""
+
+#: includes/Views/Admin/Metabox/Metabox.php:41
+msgid "Printus - Cloud Printing"
+msgstr ""
+
+#. Name of the plugin
+msgid "Printus - Cloud Printing for WooCommerce"
+msgstr ""
+
+#: includes/Notices/GeneralNotices.php:44
+msgid "Printus - WooCommerce Blocks Checkout Not Supported"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/Setup/BootstrapSettings.php:55
+msgid "Printus Cloud Printing"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:102
+msgid ""
+"Printus uses the timezone you have set in the your WordPress general "
+"settings (Settings->General)"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:81
+msgid "Product Table Settings"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:138
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:140
+msgid "Qty"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:161
+msgid "Refresh Printers"
+msgstr ""
+
+#: includes/Controllers/Settings/PrintTemplates.php:65
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:83
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:121
+#: includes/Views/Admin/Metabox/Metabox.php:71
+#: includes/Views/Admin/Metabox/Metabox.php:83
+msgid "Select"
+msgstr ""
+
+#: includes/Views/Admin/Metabox/Metabox.php:79
+msgid "Select Paper Size"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:109
+msgid "Select Print Template"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/GeneralSettings.php:144
+#: includes/Views/Admin/Metabox/Metabox.php:67
+msgid "Select Printer"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:89
+msgid "Select printer"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:128
+msgid "Select Size"
+msgstr ""
+
+#: includes/Views/Admin/Metabox/Metabox.php:56
+msgid "Select Template"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:97
+msgid "Select template"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:83
+msgid "Set a name to use for this mapping."
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:77
+msgid "Set Conditions"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:116
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:128
+msgid "Set from time."
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:106
+msgid "Set when this mapping should be active."
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:192
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:194
+msgid "Shipping"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:198
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:200
+msgid "Shipping Method"
+msgstr ""
+
+#: includes/Notices/GeneralNotices.php:46
+msgid "Show me how"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:61
+msgid "Strings"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:168
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:170
+msgid "Subtotal"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:162
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:164
+msgid "Summary"
+msgstr ""
+
+#: includes/Notices/ReviewNotices.php:57
+msgid "Sure!"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:243
+msgid "Table Body Font"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:230
+msgid "Table Headings Font"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:237
+msgid "Table Headings Font Size"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:186
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:188
+msgid "Tax"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:58
+#: includes/Views/Admin/PluginSettings/TemplateSettings.php:74
+msgid "Template Settings"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:90
+msgid "The printer for this mapping."
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:98
+msgid "The template to use for this mapping."
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:108
+msgid "Time format"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:127
+msgid "To"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/ToolsSettings.php:36
+msgid "Tools"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:174
+#: includes/Views/Admin/PluginSettings/LocalizationSettings.php:176
+msgid "Total"
+msgstr ""
+
+#: includes/Views/Admin/PluginSettings/ToolsSettings.php:78
+#, php-format
+msgid ""
+"Turning on this option will attempt to fix an issue with certain model "
+"printers where the length of the print is too long. You need to have Engine "
+"6 selected as the printing backend in the PrintNode client. %1$s Learn more "
+"%2$s"
+msgstr ""
+
+#. Author of the plugin
+msgid "Uriahs Victor"
+msgstr ""
+
+#: includes/PRO/Views/Admin/PluginSettings/PrinterMapping/PrinterMapping.php:105
+msgid "Working days"
+msgstr ""
